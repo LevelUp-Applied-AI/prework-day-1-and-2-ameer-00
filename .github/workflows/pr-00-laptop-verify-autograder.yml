@@ -1,0 +1,29 @@
+name: PR-00 Autograder — Laptop Verification
+
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  autograder:
+    if: startsWith(github.head_ref, 'pr-00-')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout PR branch
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Use autograder tests from main
+        run: git checkout origin/main -- tests/
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install pytest
+        run: pip install pytest
+
+      - name: Run autograder
+        run: pytest tests/test_pr_00_laptop_verify.py -v
