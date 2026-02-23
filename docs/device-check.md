@@ -22,24 +22,35 @@
 
 ## Evidence Checklist
 
-- [ ] Screenshot: OS version
-- [ ] Screenshot: RAM and CPU details
-- [ ] Screenshot: Free disk space
-- [ ] Screenshot: Internet speed test result
-- [ ] Screenshot: Admin rights confirmed
+- [ ] Screenshot: OS version  
+  ![OS version](gallery/Screenshot%202026-02-23%20133909.png)
+
+- [ ] Screenshot: RAM and CPU details  
+  ![RAM and CPU](gallery/Screenshot%202026-02-23%20133925.png)
+
+- [ ] Screenshot: Free disk space  
+  ![Disk space](gallery/Screenshot%202026-02-23%20133955.png)
+
+- [ ] Screenshot: Internet speed test result  
+  ![Internet speed](gallery/Screenshot%202026-02-23%20134040.png)
+
+- [ ] Screenshot: Admin rights confirmed  
+  ![Admin rights](gallery/Screenshot%202026-02-23%20134211.png)
 
 **Windows only:**
-- [ ] Screenshot: `wsl -l -v` output showing WSL 2
-- [ ] Screenshot: `wsl --status` output
+- [ ] Screenshot: `wsl -l -v` output showing WSL 2  
+  ![WSL 2 list](gallery/Screenshot%202026-02-23%20134255.png)
 
+- [ ] Screenshot: `wsl --status` output  
+  ![WSL status](gallery/Screenshot%202026-02-23%20134300.png)
 ---
 
 ## Admin Rights Confirmation
 
-**Result:** [Paste command output, or write "Confirmed via System Settings"]
+**Result:** [Confirmed via System Settings]
 
 ---
 
 ## Device Notes
 
-[Any device issues, constraints, or concerns. Write "None" if everything checks out.]
+[None]
