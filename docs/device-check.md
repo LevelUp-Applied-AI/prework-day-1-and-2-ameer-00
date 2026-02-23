@@ -1,8 +1,8 @@
-# Device Check — [Your Name]
+# Device Check — [ameer hussein]
 
 **Program:** AI.SPIRE Pre-Work
-**Date completed:** [YYYY-MM-DD]
-**GitHub username:** [your-github-username]
+**Date completed:** [2026-2-23]
+**GitHub username:** [ameer00]
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Specification | Your value |
 |---------------|------------|
-| Operating System | (e.g., Windows 11 22H2, macOS 14.4, Ubuntu 22.04) |
-| OS Build / Version | |
-| RAM | (e.g., 16 GB) |
-| CPU Model | (e.g., Intel Core i7-12700H, Apple M2) |
-| CPU Cores | |
-| Free Disk Space | (e.g., 45 GB free) |
-| Internet Speed (Download) | (from speedtest.net — Mbps) |
+| Operating System | ( Windows 11 pro) |
+| OS Build / Version |  25H2 |
+| RAM | ( 16 GB) |
+| CPU Model | ( Intel i5-12500H) |
+| CPU Cores | Core i5 |
+| Free Disk Space | ( GB 228 free) |
+| Internet Speed (Download) | (134.32 — Mbps) |
 
 ---
 
