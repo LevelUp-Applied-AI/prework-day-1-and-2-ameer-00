@@ -35,7 +35,7 @@
   ![Internet speed](gallery/Screenshot%202026-02-23%20134040.png)
 
 - [ ] Screenshot: Admin rights confirmed  
-
+  ![Admin](gallery/Screenshot%202026-02-23%20142431.png)
 **Windows only:**
 - [ ] Screenshot: `wsl -l -v` output showing WSL 2  
   ![Admin rights](gallery/Screenshot%202026-02-23%20134211.png)
