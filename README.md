@@ -28,3 +28,24 @@ Configure the pull request:
 5. Your TA reviews and merges when everything passes
 
 6. Submit the Pull Request URL in the Text input in your Assignment in TalentLMS.
+## About
+
+[I am Ameer Esam Malkawi, and this repository is dedicated to my pre-work and initial setup for the Applied AI program. It serves as a centralized place to document my environment configuration, Git workflow practices, and early project foundations as I progress through the curriculum.]
+
+## Setup
+
+```bash
+git clone [https://github.com/LevelUp-Applied-AI/prework-day-1-and-2-ameer-00.git](https://github.com/LevelUp-Applied-AI/prework-day-1-and-2-ameer-00.git)
+cd prework-day-1-and-2-ameer-00
+
+
+Save the file when done.
+
+### 4. Commit each change separately
+
+Stage and commit `docs/git-setup.md` first:
+
+```bash
+git add docs/git-setup.md
+git commit -m "Add docs/git-setup.md with configured user identity"
+
